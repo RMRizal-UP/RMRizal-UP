@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @RMRizal-UP
+- 👀 I’m interested in Artificial Intelligence and Music
+- 🌱 I’m currently learning Python, C, and AWS
+- 💞️ I’m looking to collaborate on anything, really (to the best of my ability)
+- 📫 How to reach me: rcrizal@up.edu.ph (will relocate to my personal Github if this becomes unavailable)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a musician and composer by trade, I just happen to code. Lol
+
+<!---
+RMRizal-UP/RMRizal-UP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
