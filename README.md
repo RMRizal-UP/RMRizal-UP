@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RMRizal-UP
-- 👀 I’m interested in Artificial Intelligence and Music
+- 👀 I’m interested in Artificial Intelligence and Software Development
 - 🌱 I’m currently learning Python, C, and AWS
 - 💞️ I’m looking to collaborate on anything, really (to the best of my ability)
 - 📫 How to reach me: rcrizal@up.edu.ph (will relocate to my personal Github if this becomes unavailable)
